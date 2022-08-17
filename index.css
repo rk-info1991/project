@@ -1,0 +1,52 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+/* .container {
+  background-color: aqua;
+} */
+.flex-container {
+  font: 400 60px "roboto";
+}
+.block1 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: aqua;
+}
+.block1 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(228, 101, 160);
+}
+.block2 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(163, 97, 245);
+}
+.block3 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(111, 126, 239);
+}
+.block4 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(148, 247, 115);
+}
+.block5 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(253, 249, 128);
+}
+.block6 {
+  padding: 10px;
+  text-align: center;
+  border: 1px black solid;
+  background-color: rgb(245, 142, 142);
+}
